@@ -1,7 +1,8 @@
 
 var msg = 'hello js';
 
-var name = 'dean zhang';
-var age = 25;
+let name = 'dean zhang';
+fjdlksjfld
+1213214124
 
 console.log(msg + name + age);
